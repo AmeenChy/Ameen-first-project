@@ -1,0 +1,5 @@
+my first projec in git. 
+
+{
+My first repository
+}
