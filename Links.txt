@@ -1,0 +1,15 @@
+Dynamic variables
+
+https://learning.postman.com/docs/writing-scripts/script-references/variables-list/?fbclid=IwAR3NsnaDwJan2WV2T8aQ5ifPjophv-4pgsYAcuThcZTtS3CIG1gfnh9AWUc
+
+Group
+https://docs.google.com/spreadsheets/d/1d73NA80sciIv729nDGzwLr0sfcvzMExWz76Ul6cyEBw/edit?fbclid=IwAR1tG884xI1V5Suj_adGrkX4HaLV2ZL5X3WLuYS4vEwMzN3ywAoRlzETZoE#gid=0
+API practice
+
+https://reqres.in/
+
+https://jsonpathfinder.com/
+
+https://documenter.getpostman.com/view/13082503/2s8YYMnLtN
+
+https://github.com/ebrahimhossaincse43/Student_Rest_API_Newman
